@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "slug": "manzana",
+    "name": {
+      "es": "Manzana",
+      "en": "Apple"
+    },
+    "image": {
+      "src": "/fruits/banana.png",
+      "width": 1280,
+      "height": 960
+    }
+  },
+  {
+    "id": 2,
+    "slug": "banana",
+    "name": {
+      "es": "Banana",
+      "en": "Banana"
+    },
+    "image": {
+      "src": "/fruits/banana.png",
+      "width": 1280,
+      "height": 960
+    }
+  }
+]
